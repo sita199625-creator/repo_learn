@@ -1,2 +1,3 @@
-tesxt in branch 2-- some text added in first line
+tesxt in branch 2 another text in branch2
+-- some text added in first line
 this is another line in main file 
