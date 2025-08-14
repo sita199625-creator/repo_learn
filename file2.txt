@@ -1,1 +1,1 @@
-tesxt in branch 2
+tesxt in branch 2 another text in branch2
